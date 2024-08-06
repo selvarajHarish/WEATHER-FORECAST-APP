@@ -1,4 +1,5 @@
 **Overview of the project**
+
 The Weather Forecast App is a web application that provides real-time weather information for any city. Users can enter a city name to get the current weather, a 5-day forecast, air quality information, and see relevant weather condition videos in the background.
 
 **Features**
