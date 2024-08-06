@@ -4,9 +4,7 @@ The Weather Forecast App is a web application that provides real-time weather in
 
 Features
 
-Current Weather: 
-
-* Displays the current temperature, humidity, air quality, and wind speed.
+* Current Weather:  Displays the current temperature, humidity, air quality, and wind speed.
 * 5-Day Forecast: Provides a 5-day weather forecast with temperature, weather condition descriptions, and icons.
 * Dynamic Background Video: Changes the background video based on the current weather conditions.
 * Air Quality Index: Shows the air quality index with descriptive labels (Good, Fair, Moderate, Poor, Very Poor).
