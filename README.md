@@ -13,3 +13,5 @@ The Weather Forecast App is a web application that provides real-time weather in
 * OpenWeatherMap API for fetching weather and air quality data.
 * Video elements for dynamic backgrounds based on weather conditions.
 
+**API**
+This app uses the OpenWeatherMap API. You will need to get your own API key from OpenWeatherMap and replace the placeholder in 'app.js'.
